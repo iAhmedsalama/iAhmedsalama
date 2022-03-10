@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-
-- Engineer by Educatuion
-- 🔭 I’m currently working on ...Develope my javaScript Skills
-- 🌱 I’m currently learning Software Developement ... intern @ ITI
 - 📫 How to reach me: ... [Ahmed Salama](http://wwww.twitter.com/iahmedsalama)
 - ⚡ Fun fact: ... they said I am a weekly Typed
 
