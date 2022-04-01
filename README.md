@@ -2,7 +2,7 @@
 
 - ⚡ Fun fact: ... they said I am a weekly Typed
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Places to find me:</h3>
 <p align="left">
   
 
